@@ -1,6 +1,12 @@
 - # 👋 Hi, I’m Elizabeth Jagassar!
 
-Welcome to my GitHub space! I'm passionate about data analytics, always eager to learn new things, and enthusiastic about collaborating on exciting projects. Let's build something amazing together! 🚀
+Hi! I'm Elizabeth Jagassar, known as The Insight Analyst, and I'm dedicated to unraveling insights from complex datasets. Proficient in SQL, Tableau, R, and Python, I specialize in transforming raw data into actionable strategies.
+
+With a keen eye for detail and a commitment to excellence, I've successfully undertaken projects that harness the power of data to drive informed decision-making. My proficiency extends to developing intuitive visualizations and crafting data-driven narratives.
+
+Beyond the data world, I'm a proud mom, bringing a unique perspective to every analytical challenge. A dynamic problem solver and enthusiastic collaborator, I thrive on translating data complexities into impactful solutions.
+
+Feel free to explore my projects and insights. Thank you for visiting my corner of the data realm! 🚀
 
 ## 👀 I’m interested in...
 - Data Science and Analysis
