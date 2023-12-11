@@ -1,6 +1,6 @@
-- # 👋 Hi, I’m Elizabeth Jagassar!
+- # 👋 Hi, I’m Elizabeth Jagassar - The Insight Analyst!
 
-Hi! I'm Elizabeth Jagassar, known as The Insight Analyst, and I'm dedicated to unraveling insights from complex datasets. Proficient in SQL, Tableau, R, and Python, I specialize in transforming raw data into actionable strategies.
+Hello all, welcome to my Github. I'm dedicated to unraveling insights from complex datasets. Proficient in SQL, Tableau, R, and Python, I specialize in transforming raw data into actionable strategies.
 
 With a keen eye for detail and a commitment to excellence, I've successfully undertaken projects that harness the power of data to drive informed decision-making. My proficiency extends to developing intuitive visualizations and crafting data-driven narratives.
 
